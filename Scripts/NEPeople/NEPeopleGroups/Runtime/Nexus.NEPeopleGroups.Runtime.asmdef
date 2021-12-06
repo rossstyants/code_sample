@@ -1,0 +1,18 @@
+{
+    "name": "Nexus.NEPeople.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:26af7e9d0fd8b4f92b9a4d80f831e186",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:f08fd1682c5f34711b4abbb040f56c71"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

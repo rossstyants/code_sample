@@ -1,0 +1,27 @@
+{
+    "name": "AppStructure",
+    "rootNamespace": "",
+    "references": [
+        "GUID:15c5fa4d2113cb8538a61ba56ca100c7",
+        "GUID:cb3a5d587c5f40a4cbcb174671ffd4ab",
+        "GUID:d0881277aeb4c4eb2bca5f63ca539c2b",
+        "GUID:ab72cf77654584a0db999cd63a8ba118",
+        "GUID:a9420e37d7990b54abdef6688edbe313",
+        "GUID:f3cc28278c88a4b43ae1ec99ea44ed56",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:26af7e9d0fd8b4f92b9a4d80f831e186",
+        "GUID:217bf8b762e434884bf3382f5ef393b1",
+        "GUID:7f1e397a76f31453882c9e07e8c86912",
+        "GUID:42e59013f077c469098fe0d21f623cdd",
+        "GUID:f08fd1682c5f34711b4abbb040f56c71"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
